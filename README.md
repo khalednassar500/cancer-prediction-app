@@ -44,7 +44,7 @@ python3 app.py
 
 ## Authors
 
-- **Khaled Nassar** - *Business fair* - [github.com/khalednassar500](https://github.com/khalednassar500/)
+- **Khaled Nassar** - ( *Business fair* :- [github.com/khalednassar500](https://github.com/khalednassar500/) )
 
 ## Acknowledgments
 - My friends from the university who contributed to the creation of the machine learning model
