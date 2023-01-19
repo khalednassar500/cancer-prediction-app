@@ -48,3 +48,6 @@ python3 app.py
 
 ## Acknowledgments
 - My friends from the university who contributed to the creation of the machine learning model
+
+## Project photos 
+![This is an image](/screencapture-file-home-kn-Projects-tools-presentaions-index-html-2023-01-19-11_39_01.png)
